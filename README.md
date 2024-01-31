@@ -1,6 +1,6 @@
 ![image](https://github.com/CyberWorld-kam/IOT-mini-project/assets/157485250/e3a33091-c937-4185-b5a2-70070a3107b2)# IOT-mini-project
 
-<h2>definition </h2>
+<h2>Definition </h2>
 A vehicle tracking system combines the use of automatic vehicle location in individual vehicles with software that collects these fleet data for a comprehensive picture of vehicle locations.
 
 <h2>Benefits of Tracking system</h2>
